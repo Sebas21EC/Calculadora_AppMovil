@@ -20,5 +20,5 @@ Operaciones aritméticas:
 - Captura General
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 
-<img style="margin: 5px;" src="https://github.com/Sebas21EC/Calculadora_AppMovil/blob/f98c75bff4c70134338073aac19d77d3a1f0aef0/img/Screenshot%202024-04-13%20004804.png" alt="General capture" width="300">
+<img style="margin: 5px;" src="https://github.com/Sebas21EC/Calculadora_AppMovil/blob/f98c75bff4c70134338073aac19d77d3a1f0aef0/img/Screenshot%202024-04-13%20004804.png" alt="General capture" width="900">
 
