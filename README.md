@@ -1,6 +1,9 @@
-#**Universidad Técnica del Norte**
+**Universidad Técnica del Norte**
+
 **Nombre:** Erick Sebastian Carlosama Tabango
+
 **Materia:** Aplicaciones móviles
+
 **Tema:** Calculadora
 
 **Desarrollo:** Calculadora realizada en clases.
