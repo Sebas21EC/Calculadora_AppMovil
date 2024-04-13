@@ -8,7 +8,7 @@
 
 **Desarrollo:** Calculadora realizada en clases.
 
-#### Función: 
+## Función: 
 Operaciones aritméticas:
 - Suma
 - Resta
